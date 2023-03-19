@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsukakoshi&theme=dark_lover&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yuma-Tsukakoshi&theme=dark_lover&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
