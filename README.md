@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsukakoshi&layout=compact&show_icons=true&theme=dark_lover" />
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsukakoshi&theme=dark_lover&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsukakoshi&layout=compact&show_icons=true&theme=dark_lover" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=Yuma-Tsukakoshi&theme=dark_lover&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuma-Tsukakoshi&theme=synthwave&column=7
