@@ -1,4 +1,4 @@
-### This is my GitHub profile.
+### 🏆This is my GitHub profile.
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsukakoshi&layout=compact&show_icons=true&theme=synthwave" />
