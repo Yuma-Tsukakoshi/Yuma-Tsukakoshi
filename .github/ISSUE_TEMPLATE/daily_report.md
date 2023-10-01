@@ -1,5 +1,5 @@
 ---
-name: Daily Report
+name: Daily_Report
 about: 日報のテンプレート
 title: "{{ date | date('YYYY/MM/DD') }}"
 labels: TODAY

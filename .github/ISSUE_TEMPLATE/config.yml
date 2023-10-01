@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Daily Report
+  - name: Daily_Report
     about: 日報のテンプレート
-    url: https://github.com/{REPO}/issues/new?template=daily_report.md&projects={ORGANIZATION OR REPO}/Daily Report&labels=TODAY 
+    url: https://github.com/{REPO}/issues/new?template=daily_report.md&projects={ORGANIZATION OR REPO}/Daily_Report&labels=TODAY 
