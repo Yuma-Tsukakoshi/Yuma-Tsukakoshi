@@ -1,0 +1,59 @@
+# # このワークフローはGitHubによって認定されていないアクションを使用します。
+# # それらはサードパーティによって提供され、
+# # 別個の利用規約、プライバシーポリシー、
+# # ドキュメントを参照してください。
+
+# # GitHub では、コミット SHA にアクションをピン留めすることが推奨されます。
+# # 新しいバージョンを取得するには、SHA を更新する必要があります。
+# # タグまたはブランチを参照することもできますが、アクションは警告なしに変更される可能性があります。
+
+# name: Weekly Team Sync
+# on:
+#   schedule:
+#     - cron: 40 3 * * *
+
+# jobs:
+#   create_issue:
+#     name: Create team sync issue
+#     runs-on: ubuntu-latest
+#     permissions:
+#       issues: write
+#     steps:
+#       - name: Create team sync issue
+#         uses: imjohnbo/issue-bot@3d96848fb5e9a4a473bb81ae62b4b4866a56e93a
+#         with:
+#           assignees: "Yuma-Tsukakoshi"
+#           labels: "TODAY"
+#           title: "[RoutineCHECK!!] Daily Check"
+#           body: |
+#           ## Exit_Condition
+#           - [ ] 明日の決まっている予定plannerに記入
+#           - [ ] 作業タスク plannerに記入
+#           - [ ] 今日学んだことわかったこと書き留めた
+
+#           pinned: false
+#           close-previous: true
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+name: Create Daily Report
+
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write 
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/ISSUE_TEMPLATE/daily_report.md
