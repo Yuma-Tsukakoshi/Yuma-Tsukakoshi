@@ -2,7 +2,7 @@ name: Create Daily Report
 
 on:
   schedule:
-    - cron: '0 21 * * *'
+    - cron: '15 5 * * *'
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           assignees: "Yuma-Tsukakoshi"
-          labels: "TODAY"
           pinned: false
           close-previous: true
           filename: .github/ISSUE_TEMPLATE/daily_report.md
