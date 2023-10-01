@@ -3,6 +3,7 @@ name: Daily Report
 about: 日報のテンプレート
 title: "{{ date | date('YYYY/MM/DD') }}"
 labels: TODAY
+projects: my_daily_review
 ---
 
 ## Exit_Condition
