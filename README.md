@@ -1,6 +1,4 @@
-### 🏆This is my GitHub profile.
-🔥My goal is to become a full-stack engineer with a wide range of knowledge,   
-aiming to be both a machine learning engineer and a web engineer.  
+🏆 This is my GitHub profile.  
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuma-Tsukakoshi&layout=compact&show_icons=true&theme=synthwave" />
@@ -10,4 +8,6 @@ aiming to be both a machine learning engineer and a web engineer.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuma-Tsukakoshi&margin-w=15&theme=onestar&row=1&column=6
 )](https://github.com/ryo-ma/github-profile-trophy)  
 
-
+🔥 My goal is to be a Full-Stack Engineer !!  
+🤖 Machine learning engineer  
+🎨 web engineer  
