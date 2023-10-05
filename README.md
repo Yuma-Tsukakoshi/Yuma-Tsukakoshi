@@ -8,6 +8,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yuma-Tsukakoshi&margin-w=15&theme=onestar&row=1&column=6
 )](https://github.com/ryo-ma/github-profile-trophy)  
 
-🔥 My goal is to be a Full-Stack Engineer !!  
+🔥 My goal is to be a Full-Stack engineer!!  
 🤖 Machine learning engineer  
 🎨 web engineer  
