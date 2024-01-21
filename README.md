@@ -9,5 +9,5 @@
 )](https://github.com/ryo-ma/github-profile-trophy)  
 
 🔥 My goal is to be a Full-Stack engineer!!  
-🤖 Machine learning 
-🎨 web design  
+🤖 Machine learning Engineer  
+🎨 Web Services Engineer
