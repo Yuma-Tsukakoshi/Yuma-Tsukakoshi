@@ -10,6 +10,9 @@
 
 <h3 align="left">My Skills:</h3>
 
+[![MySkill](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,php,laravel,mysql,aws,py,pytorch,opencv,sklearn,docker,postman&theme=dark)](https://skillicons.dev)  
+
+
 
 <h3 align="left">My Goal:</h3>
 
