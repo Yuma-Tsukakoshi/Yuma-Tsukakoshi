@@ -17,6 +17,5 @@
 
 <h3 align="left">My Goal:</h3>
 
-🔥 My goal is to be a Full-Stack engineer!!     
 🤖 Machine learning Engineer  
 🎨 Web Application Engineer 
