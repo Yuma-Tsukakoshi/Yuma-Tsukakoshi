@@ -17,5 +17,5 @@
 
 <h3 align="left">My Goal:</h3>
 
-🤖 Machine learning Engineer  
-🎨 Web Application Engineer 
+🤖 IT Solutions Engineer 
+
