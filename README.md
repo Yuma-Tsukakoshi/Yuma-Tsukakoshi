@@ -10,8 +10,8 @@
 
 <h3 align="left">My Skills:</h3>
 
-[![MySkill](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,react,nextjs,ts,tailwind,php,laravel,mysql&theme=dark)](https://skillicons.dev)  
-[![MySkill](https://skillicons.dev/icons?i=dart,flutter,aws,docker,postman&theme=dark)](https://skillicons.dev)  
+[![MySkill](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,flask,react,nextjs,ts,materialui,tailwind,php,laravel,mysql&theme=dark)](https://skillicons.dev)  
+[![MySkill](https://skillicons.dev/icons?i=dart,flutter,aws,docker,postman,arduino&theme=dark)](https://skillicons.dev)  
 
 
 
