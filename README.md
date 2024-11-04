@@ -9,13 +9,19 @@
 )](https://github.com/ryo-ma/github-profile-trophy)  
 
 <h3 align="left">My Skills:</h3>
+Frontend
 
-[![MySkill](https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn,flask,react,nextjs,ts,materialui,tailwind,php,laravel,mysql&theme=dark)](https://skillicons.dev)  
-[![MySkill](https://skillicons.dev/icons?i=dart,flutter,aws,docker,postman,arduino&theme=dark)](https://skillicons.dev)  
+[![MySkill](https://skillicons.dev/icons?i=html,css,js,ts,,react,nextjs,materialui,tailwind,dart,flutter&theme=dark)](https://skillicons.dev)  
 
+Backend
+
+[![MySkill](https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,flask,php,laravel&theme=dark)](https://skillicons.dev)  
+
+Others
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,aws,vercel,mysql,postgres,github,arduino&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">My Goal:</h3>
 
-🤖 IT Solutions Engineer 
+🤖 IT Solution Engineer 
 
