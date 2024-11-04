@@ -9,15 +9,16 @@
 )](https://github.com/ryo-ma/github-profile-trophy)  
 
 <h3 align="left">My Skills:</h3>
-Frontend
+Frontend  
 
-[![MySkill](https://skillicons.dev/icons?i=html,css,js,ts,,react,nextjs,materialui,tailwind,dart,flutter&theme=dark)](https://skillicons.dev)  
+[![MySkill](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,materialui,tailwind,dart,flutter&theme=dark)](https://skillicons.dev)  
 
-Backend
+Backend  
 
 [![MySkill](https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,flask,php,laravel&theme=dark)](https://skillicons.dev)  
 
-Others
+Others  
+
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,aws,vercel,mysql,postgres,github,arduino&theme=dark)](https://skillicons.dev)
 
 
