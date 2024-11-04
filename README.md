@@ -21,7 +21,7 @@
 
 <h4 align="left">Others</h4> 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,aws,vercel,mysql,postgres,github,arduino&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,aws,vercel,mysql,postgres,arduino&theme=dark)](https://skillicons.dev)
 
 
 <h3 align="left">My Goal:</h3>
