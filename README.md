@@ -17,7 +17,7 @@
 
 <h4 align="left">Backend & ML</h4>
 
-[![MySkill](https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,kotlin,flask,php,laravel&theme=dark)](https://skillicons.dev)  
+[![MySkill](https://skillicons.dev/icons?i=python,pytorch,opencv,sklearn,kotlin,go,flask,php,laravel&theme=dark)](https://skillicons.dev)  
 
 <h4 align="left">Others</h4> 
 
